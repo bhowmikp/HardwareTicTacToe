@@ -30,14 +30,15 @@ Run Tic Tac Toe code
 ## Demo
 ![Draw Game](/img/board1.png?raw=true)
 ![Win Game](/img/board2.png?raw=true)
+![Wiring](/img/board3.jpg?raw=true)
 
 ## Authors
 
-* **Harmanraj Singh Wadhwa** - *Setting up hardware*
+* **[Harmanraj Singh Wadhwa](https://github.com/hswadhwa)** - *Setting up hardware*
 * **Martin Liang** - *Setting up code*
 * **[Prantar Bhowmik](https://github.com/bhowmikp)** - *Setting up hardware*
 * **Wang Cheney** - *Setting up code*
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
